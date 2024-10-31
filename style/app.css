@@ -1,0 +1,14 @@
+main {
+    display: flex;
+    height: calc(100vh - 377px);
+}
+#list {
+    background-color: aquamarine;
+    /*height: 100px; */
+    flex: 3;
+}
+#form {
+    background-color: bisque;
+    /* height: 100px; */    
+        flex: 2;
+}
