@@ -36,8 +36,8 @@ function displayTask(taskToSave){
 
 function init()
 {
-    console.log("init");
-    $("#btnSave").click(saveTask());
+    console.log("init");    
+    $("#btnSave").click(saveTask);
 }
 
 window.onload = init;
