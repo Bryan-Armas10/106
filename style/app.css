@@ -6,7 +6,6 @@ main {
 }
 #list {
     background-color: #ffffff;
-    /*height: 100px; */
     flex: 3;
     border-radius: 12px;
     box-shadow: 0 4px 15px rgba(0, 98, 255, 0.1);
